@@ -1,6 +1,6 @@
 break关键字可以用来退出switch或循环语句
 
-if没有break关键字，f（true）》》》不是循环
+if没有break关键字，if（true）》》》不是循环
 
 break关键字,会立即终止离他最近的那个循环语句
 
